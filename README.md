@@ -7,3 +7,4 @@ aku suka makan nasi
 1. judul
 - sempak
 	`asu`
+--- pantek
